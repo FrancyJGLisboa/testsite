@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/demosite02/public/publication/clothing-search",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
